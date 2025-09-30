@@ -1,0 +1,11 @@
+﻿ID,Product,Category,Price,Stock,Rating,Launch Date,Status
+1,Laptop Pro,Electronics,85000,12,4.6,15-02-2023,Active
+2,Coffee Maker,Home,3500,0,4.2,10-07-2021,Inactive
+3,Earbuds X,Electronics,2500,50,4,01-05-2024,Active
+4,Sofa Set,Furniture,45000,5,4.5,20-11-2020,Active
+5,Blender Pro,Home,4200,20,3.9,18-06-2022,Active
+6,Gaming Chair,Furniture,15000,8,4.8,25-09-2023,Active
+7,Smartwatch Z,Electronics,12000,0,4.3,10-12-2023,Pending
+8,Book Shelf,Furniture,6000,15,4.1,05-03-2021,Active
+9,Air Purifier,Home,9500,2,4.4,01-08-2024,Active
+10,DSLR Camera,Electronics,55000,6,4.7,12-05-2019,Retired
